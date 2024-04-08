@@ -1,0 +1,46 @@
+// you can change colors here
+$theme-color: #2196f3;
+
+$theme-colors: #2196f3, #f26d6d, #FF00FF, #3eaf7c, #FFC0CB, #00BFFF, #fb9b5f;
+
+$bgColor: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+
+$bg-color-secondary: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+
+$bg-color-tertiary: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+
+$border-color: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+
+// shadow
+$box-shadow: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+$card-shadow: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+
+
+$white: (
+        light: #C7EDCC,
+        dark: #DCE2F1,
+);
+
+
+// 应用字体
+$font-family: '"Microsoft YaHei", Consolas'; // 普通文本
+$font-family-heading: '"Microsoft YaHei", Consolas'; // 用于标题元素的字体
+$font-family-mono: 'Consolas'; // 代码上使用的字体
